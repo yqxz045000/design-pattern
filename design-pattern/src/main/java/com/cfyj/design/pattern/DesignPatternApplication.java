@@ -10,4 +10,5 @@ public class DesignPatternApplication {
 		SpringApplication.run(DesignPatternApplication.class, args);
 	}
 //soft before 
+	//soft interim-status
 }
