@@ -10,9 +10,10 @@ public class DesignPatternApplication {
 		SpringApplication.run(DesignPatternApplication.class, args);
 	}
 
-//soft before         这里修改的冲突内容  
-	//soft interim-status
+//soft before       
+	//soft interim-status  
 	//soft current
 	//soft after，本地减少了一个版本
+
 }
  
