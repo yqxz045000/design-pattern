@@ -17,5 +17,5 @@ public class DesignPatternApplication {
 	//soft after，本地减少了一个版本
 //非冲突部分新增内容
 
-}
+} 
 
